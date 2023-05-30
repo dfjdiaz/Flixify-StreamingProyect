@@ -1,4 +1,4 @@
-# flixify
-tp1 curso Full-Stack RollingCode School
+# Flixify
+Trabajo Practico - Curso Full-Stack RollingCode School
 
-flixifytv.netlify.com
+https://flixifytv.netlify.app/index.html
